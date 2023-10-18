@@ -4,7 +4,7 @@ Disponibilização de alguns códigos realizados, durante o primeiro período da
 Linguagem: Python;
 
 
-Observação: 
+Observações: 
    
     ⚙️ Códigos realizados apenas com funções recursivas, requisito obrigatório que foi colocado na realização da matéria de Programação funcional.
     
